@@ -6,7 +6,7 @@ Zwroty realizowane są za pośrednictwem wiodących na rynku firm kurierskich: I
 
 # Instalacja
 
-Kod instalacji możesz dodać poprzez Google Tag Manager jako tag "Wygodne Zwroty". Kod instalacyjny zostanie automatycznie dodany do Twoje sklepu. 
+Kod instalacji możesz dodać poprzez Google Tag Manager jako tag "Wygodne Zwroty". Kod instalacyjny zostanie automatycznie dodany do Twojego sklepu. 
 
 ## Kod ID sklepu
 ![enter image description here](https://allekurier.pl/static/gtm/gtm1.png)
