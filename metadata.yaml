@@ -15,5 +15,5 @@
 homepage: "https://wygodnezwroty.pl/"
 documentation: https://github.com/AlleKurier/GTM_WZ/blob/master/README.md"
 versions:
-  - sha: https://github.com/AlleKurier/GTM_WZ/blob/master/README.md
+  - sha: 97c1cd2a9b3876e098cfa199d7a1c20922c3d9f7
     changeNotes: Initial Version
