@@ -30,4 +30,3 @@ Pamiętaj, że w celu wyświetlania banera lub widgetu należy skopiować kod ty
 ## Pomoc oraz kontakt handlowy
 [oferta@allekurier.pl](oferta@allekurier.pl)
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
