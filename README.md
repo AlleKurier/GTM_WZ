@@ -2,7 +2,7 @@
 
 Wygodne Zwroty, to usługa która umożliwia nadawanie zwrotów konsumenckich w oparciu o krótki i intuicyjny formularz. Usługa jest całkowicie darmowa dla sklepu. Koszt przesyłki pokrywa konsument zwracający zamówienie.
 
-
+Zwroty realizowane są za pośrednictwem wiodących na rynku firm kurierskich: InPost (Paczkomaty 24/7) oraz DHL (sieć DHL POP), zapewniając konsumentom wysoką dostępność usługi - ok 32 tys. punktów nadawczych, a sklepom przewidywalność doręczeń, lepszą identyfikację zwrotów, i co nie mniej ważne, poprawę doświadczeń klienta w kontakcie ze sklepem.
 
 # Instalacja
 
