@@ -1,6 +1,8 @@
 # Wygodne Zwroty
 
-Wygodne zwroty to usługa pozwalająca na szybkie zorganizowanie zwrotów produktów klientom Twojego sklepu.
+Wygodne Zwroty, to usługa która umożliwia nadawanie zwrotów konsumenckich w oparciu o krótki i intuicyjny formularz. Usługa jest całkowicie darmowa dla sklepu. Koszt przesyłki pokrywa konsument zwracający zamówienie.
+
+
 
 # Instalacja
 
