@@ -13,16 +13,16 @@ Kod instalacji możesz dodać poprzez Google Tag Manager jako tag "Wygodne Zwrot
 
 Podczas instalacji wymagane jest podanie ID Twojego sklepu. 
 Jeżeli nie wiesz jaki ID ma Twój sklep skontaktuj się z naszym działem handlowym.
-Informacje na temat instalacji możesz znaleźć pod adresem: https://zwroty.allekurier.pl/kod-sklepu/instalacja
+Informacje na temat instalacji możesz znaleźć pod adresem: https://wygodnezwroty.pl/kod-sklepu/instalacja
 
 Gdzie **kod-sklepu** to kod twojego sklepu w naszym systemie.
 
-Przykładowy link strony instalacyjnej: https://zwroty.allekurier.pl/modnakiecka/instalacja
+Przykładowy link strony instalacyjnej: https://wygodnezwroty.pl/modnakiecka/instalacja
 
 ## Dodatkowe informacje
 
 Samo uruchomienie tagu w Google Tag Manager nie powoduje wyświetlanie banneru informacyjnego lub widgetu.
-Aby wstawić baner lub widget należy udać się na stronie https://zwroty.allekurier.pl/kod-sklepu/instalacja 
+Aby wstawić baner lub widget należy udać się na stronę https://wygodnezwroty.pl/kod-sklepu/instalacja 
 Gdzie **kod-sklepu** to kod twojego sklepu w naszym systemie.
 
 
