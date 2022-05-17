@@ -13,7 +13,18 @@
 # limitations under the License.https://github.com/AlleKurier/GTM_WZ/blob/master/metadata.yaml
 
 homepage: "https://wygodnezwroty.pl/"
-documentation: https://github.com/AlleKurier/GTM_WZ/blob/master/README.md"
+documentation: https://github.com/AlleKurier/GTM_WZ/blob/master/README.md
 versions:
+
+versions:
+  # Latest version
+  - sha: be9ffeecd1d39cd8792db0b97c48315a7b5de1f4
+    changeNotes: |2
+        - zmiana opisu
+        - dodanie logowanie do konsoli celu weryfikacji instalacji
+        
+        
+  # Older versions
   - sha: 97c1cd2a9b3876e098cfa199d7a1c20922c3d9f7
     changeNotes: Initial Version
+     
